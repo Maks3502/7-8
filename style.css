@@ -1,0 +1,799 @@
+html,body{
+  position: relative;
+  width: 1600px;
+  height: 2349px;
+  background: #FFFFFF;
+
+
+  }
+  header{position: absolute;
+    width: 1600px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;}
+  .o1 {
+    margin-top:24px ;
+    margin-bottom: 25px;
+    position: absolute;
+    width: 145px;
+    height: 31px; ;
+    left: 215px;
+
+
+
+
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700px;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+
+
+}
+.o1 span:nth-child(1) {color: #2196F3;}
+.o1 span:nth-child(2) {color: #000000;}
+
+.link1{ 
+   position: absolute;
+  width: 45px;
+  height: 16px;
+  left: 453px;
+  top: 32px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  
+  color: #2196F3;
+  }  
+  .link2{
+    position: absolute;
+width: 72px;
+height: 16px;
+left: 552px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+  }
+  .link3{
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 679px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+
+  }
+  .link4{
+    position: absolute;
+width: 135px;
+height: 16px;
+left: 978px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+
+  }
+ 
+  
+  .link5
+  {position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 1300px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #757575;}
+    li{list-style-type: none;}
+    .m1{
+      position: absolute;
+width: 1600px;
+height: 600px;
+left: 0px;
+top: 80px;
+bottom: 25px;
+
+background: #2F303A;
+    }
+    .text
+    {position: absolute;
+      width: 696px;
+      height: 120px;
+      left: 452px;
+      top: 280px;
+      
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 900;
+      font-size: 44px;
+      line-height: 60px;
+      
+      
+      text-align: center;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      
+      color: #FFFFFF;
+      } 
+      button
+      {margin-top: 30px;
+        margin-bottom: 200px;
+        margin-left: 700px;
+        margin-right: 700px;
+        
+        position: absolute;
+        width: 152px;
+        height: 30px;
+        left: 724px;
+        top: 440;
+        
+        background: #2196F3;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+
+
+
+        position: absolute;
+        width: 152px;
+        height: 30px;
+        left: 724px;
+        top: 440px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 30px;
+        
+        
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.06em;
+        
+        color: #FFFFFF;
+        }
+        .l1{position: absolute;
+          width: 270px;
+          height: 16px;
+          left: 215px;
+          top: 774px;
+          
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 16px;
+          letter-spacing: 0.03em;
+          text-transform: uppercase;
+          
+          color: #212121;
+          }
+      .l2{position: absolute;
+        width: 270px;
+        height: 16px;
+        left: 515px;
+        top: 774px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        
+        color: #212121;
+        }
+        .l3{position: absolute;
+          width: 270px;
+          height: 16px;
+          left: 815px;
+          top: 774px;
+          
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 16px;
+          letter-spacing: 0.03em;
+          text-transform: uppercase;
+          
+          color: #212121;
+          }
+          .p1{position: absolute;
+            width: 270px;
+            height: 75px;
+            left: 215px;
+            top: 800px;
+            
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            /* or 171% */
+            
+            letter-spacing: 0.03em;
+            
+            color: #757575;
+            }
+            .p2{position: absolute;
+              width: 270px;
+              height: 75px;
+              left: 515px;
+              top: 800px;
+              
+              font-family: 'Roboto';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 24px;
+              /* or 171% */
+              
+              letter-spacing: 0.03em;
+              
+              color: #757575;
+              }
+              .p3{position: absolute;
+                width: 270px;
+                height: 75px;
+                left: 815px;
+                top: 800px;
+                
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 24px;
+                /* or 171% */
+                
+                letter-spacing: 0.03em;
+                
+                color: #757575;
+                position: absolute;
+                width: 270px;
+                height: 75px;
+                left: 815px;
+                top: 800px;
+                
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                font-size: 14px;
+                line-height: 24px;
+                /* or 171% */
+                
+                letter-spacing: 0.03em;
+                
+                color: #757575;
+                              
+  }
+.m2{ 
+
+
+  position: absolute;
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1449px;
+  
+  background: #F5F4FA;}
+.o2{
+  position: absolute;
+  width: 366px;
+  height: 42px;
+  left: 617px;
+  top: 969px;
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  
+  color: #212121;
+  }      
+  .mg1{ margin-top:  50px; ;
+    margin-bottom: 188px;
+    margin-left:30px ;
+margin-right: 30px;
+
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 1061px;
+    
+    background: url(close-up-image-programer-working-his-desk-office_1098-18707.jpg);
+    mix-blend-mode: normal;} 
+
+.mg2{ margin-top:  50px; ;
+  margin-bottom: 188px;
+  margin-left:30px ;
+margin-right: 30px;
+
+  position: absolute;
+  width: 370px;
+  height: 294px;
+  left: 615px;
+  top: 1061px;
+  
+  background: url(web-ui-designers-are-developing-application-smartphones-team-creators-is-working-interface-mobile-phones_8119-2713.jpg);
+  }
+  .mg3{ margin-top:  50px; ;
+    margin-bottom: 188px;
+    margin-left:30px ;
+margin-right: 30px;
+
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1061px;
+    
+    background: url(creative-artist-web-design-with-working-colour-selection-graphic-tablet_35674-1119.jpg);}
+
+    .o3{ margin-top:  94px; ;
+      margin-bottom: 512px;
+    margin-left: 0px;
+    margin-right: 0px;
+      position: absolute;
+      width: 264px;
+      height: 42px;
+      left: 668px;
+      top: 1490px;
+      
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 36px;
+      line-height: 42px;
+      text-align: center;
+      letter-spacing: 0.03em;
+      
+      color: #212121;
+      }
+      .m3{margin-top:50px ;
+        margin-bottom:94px ;
+        position: absolute;
+        width: 270px;
+        height: 368px;
+        left: 215px;
+        top: 1635px;
+        
+        background: #FFFFFF;
+        /* material shadow v1 */
+        
+        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+        border-radius: 0px 0px 4px 4px;
+        }
+        .mg4{/* img */
+          margin-top:186px ;
+          margin-bottom: 202px;
+
+
+          position: absolute;
+          width: 270px;
+          height: 260px;
+          left: 215px;
+          top: 1635px;
+          
+          background: url(4853.jpg);
+          border-radius: 0px;}
+          
+          .mg5{margin-top:186px ;
+            margin-bottom:202 ;
+            margin-right: 30px;
+            
+            position: absolute;
+            width: 270px;
+            height: 260px;
+            left: 515px;
+            top: 1635px;
+            
+            background: url(5844.jpg);
+            border-radius: 0px;}
+            .mg6{margin-top: 186px;
+              margin-bottom: 202px;
+              margin-right: 30px;
+
+              position: absolute;
+              width: 270px;
+              height: 260px;
+              left: 815px;
+              top: 1635px;
+              
+              background: url(16166.jpg);
+              border-radius: 0px;}
+              .m4{position: absolute;
+                margin-top:50px ;
+                margin-bottom: 94px;
+
+                width: 270px;
+                height: 368px;
+                left: 515px;
+                top: 1635px;
+                
+                background: #FFFFFF;
+                /* material shadow v1 */
+                
+                box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+                border-radius: 0px 0px 4px 4px;
+                }
+                .m5{/* card bg */
+                  margin-top:50px ;
+                  margin-bottom:94px ;
+
+
+                  position: absolute;
+                  width: 270px;
+                  height: 368px;
+                  left: 815px;
+                  top: 1635px;
+                  
+                  background: #FFFFFF;
+                  /* material shadow v1 */
+                  
+                  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+                  border-radius: 0px 0px 4px 4px;
+                  }
+                  .text1{/* Ігор Дем’яненко */
+                    margin-top:30px ;
+                    margin-bottom: 10px;
+
+
+                    position: absolute;
+                    width: 130px;
+                    height: 19px;
+                    left: 285px;
+                    top: 1925px;
+                    
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 500;
+                    font-size: 16px;
+                    line-height: 19px;
+                    /* identical to box height */
+                    
+                    text-align: center;
+                    letter-spacing: 0.03em;
+                    
+                    color: #212121;
+                    
+                    
+                  
+                    }
+                    .text2{  
+                      /* Product Designer */
+                      
+                      
+                      position: absolute;
+                      width: 130px;
+                      height: 19px;
+                      left: 285px;
+                      top: 1954px;
+                      
+                      font-family: 'Roboto';
+                      font-style: normal;
+                      font-weight: 400;
+                      font-size: 16px;
+                      line-height: 19px;
+                      /* identical to box height */
+                      
+                      text-align: center;
+                      letter-spacing: 0.03em;
+                      
+                      color: #757575;}
+                      .m6{/* card bg */
+                        margin-top:50px ;
+                        margin-bottom:94px ;
+
+
+                        position: absolute;
+                        width: 270px;
+                        height: 368px;
+                        left: 1115px;
+                        top: 1635px;
+                        
+                        background: #FFFFFF;
+                        /* material shadow v1 */
+                        
+                        box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+                        border-radius: 0px 0px 4px 4px;
+                        }
+                        .mg7{margin-top:186px ;
+                          margin-bottom:202px ;
+
+                          position: absolute;
+                          width: 270px;
+                          height: 260px;
+                          left: 1115px;
+                          top: 1635px;
+                          
+                          background: url(2968.jpg);
+                          border-radius: 0px;}
+                          .text3{/* Ольга Репіна */
+
+
+                            position: absolute;
+                            width: 104px;
+                            height: 19px;
+                            left: 598px;
+                            top: 1925px;
+                            
+                            font-family: 'Roboto';
+                            font-style: normal;
+                            font-weight: 500;
+                            font-size: 16px;
+                            line-height: 19px;
+                            /* identical to box height */
+                            
+                            text-align: center;
+                            letter-spacing: 0.03em;
+                            
+                            color: #212121;
+                            }
+                            .text4{position: absolute;
+                              width: 147px;
+                              height: 19px;
+                              left: 577px;
+                              top: 1954px;
+                              
+                              font-family: 'Roboto';
+                              font-style: normal;
+                              font-weight: 400;
+                              font-size: 16px;
+                              line-height: 19px;
+                              /* identical to box height */
+                              
+                              text-align: center;
+                              letter-spacing: 0.03em;
+                              
+                              color: #757575;
+                              }
+                              .text5{/* Микола Тарасов */
+
+
+                                position: absolute;
+                                width: 130px;
+                                height: 19px;
+                                left: 885px;
+                                top: 1925px;
+                                
+                                font-family: 'Roboto';
+                                font-style: normal;
+                                font-weight: 500;
+                                font-size: 16px;
+                                line-height: 19px;
+                                /* identical to box height */
+                                
+                                text-align: center;
+                                letter-spacing: 0.03em;
+                                
+                                color: #212121;
+                                }
+                                .text6{/* Marketing */
+
+
+                                  position: absolute;
+                                  width: 76px;
+                                  height: 19px;
+                                  left: 912px;
+                                  top: 1954px;
+                                  
+                                  font-family: 'Roboto';
+                                  font-style: normal;
+                                  font-weight: 400;
+                                  font-size: 16px;
+                                  line-height: 19px;
+                                  /* identical to box height */
+                                  
+                                  text-align: center;
+                                  letter-spacing: 0.03em;
+                                  
+                                  color: #757575;
+                                  }
+                                  .text7{/* Михайло Єрмаков */
+
+
+                                    position: absolute;
+                                    width: 145px;
+                                    height: 19px;
+                                    left: 1178px;
+                                    top: 1925px;
+                                    
+                                    font-family: 'Roboto';
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    font-size: 16px;
+                                    line-height: 19px;
+                                    /* identical to box height */
+                                    
+                                    text-align: center;
+                                    letter-spacing: 0.03em;
+                                    
+                                    color: #212121;
+                                    }
+                                    .text8{/* UI Designer */
+
+
+                                      position: absolute;
+                                      width: 87px;
+                                      height: 19px;
+                                      left: 1207px;
+                                      top: 1954px;
+                                      
+                                      font-family: 'Roboto';
+                                      font-style: normal;
+                                      font-weight: 400;
+                                      font-size: 16px;
+                                      line-height: 19px;
+                                      /* identical to box height */
+                                      
+                                      text-align: center;
+                                      letter-spacing: 0.03em;
+                                      
+                                      color: #757575;}
+                                      .m7{/* Footer bg */
+
+
+                                        position: absolute;
+                                        width: 1600px;
+                                        height: 252px;
+                                        left: 0px;
+                                        top: 2097px;
+                                        
+                                        background: #2F303A;}
+                                        .o4{/* WebStudio */
+
+
+                                          position: absolute;
+                                          width: 145px;
+                                          height: 31px;
+                                          left: 215px;
+                                          top: 2157px;
+                                          
+                                          font-family: 'Raleway';
+                                          font-style: normal;
+                                          font-weight: 700;
+                                          font-size: 26px;
+                                          line-height: 31px;
+                                          /* identical to box height */
+                                          
+                                          letter-spacing: 0.03em;
+                                          
+                                          color: #2196F3;
+                                          }
+                                          .o4 span:nth-child(1) {color: #2196F3;}
+.o4 span:nth-child(2) {color: rgba(255, 255, 255, 1);}
+                                          .link6{
+                                            position: absolute;
+                                            width: 231px;
+                                            height: 21px;
+                                            left: 215px;
+                                            top: 2238px;
+                                            
+                                            font-family: 'Roboto';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 14px;
+                                            line-height: 24px;
+                                            /* or 171% */
+                                            
+                                            letter-spacing: 0.03em;
+                                            
+                                            color: rgba(255, 255, 255, 0.6);
+                                            
+                                            }
+                                            .link7{
+                                              position: absolute;
+                                              width: 231px;
+                                              height: 21px;
+                                              left: 215px;
+                                              top: 2268px;
+                                              
+                                              font-family: 'Roboto';
+                                              font-style: normal;
+                                              font-weight: 400;
+                                              font-size: 14px;
+                                              line-height: 24px;
+                                              /* or 171% */
+                                              
+                                              letter-spacing: 0.03em;
+                                              
+                                              color: rgba(255, 255, 255, 0.6);
+                                              
+                                              }
+                                              .link8{/* м. Київ, пр-т Лесі Українки, 26 */
+
+
+                                                position: absolute;
+                                                width: 231px;
+                                                height: 21px;
+                                                left: 215px;
+                                                top: 2208px;
+                                                
+                                                font-family: 'Roboto';
+                                                font-style: normal;
+                                                font-weight: 400;
+                                                font-size: 14px;
+                                                line-height: 24px;
+                                                /* or 171% */
+                                                
+                                                letter-spacing: 0.03em;
+                                                
+                                                color: #FFFFFF;}
+                                                .l4{position: absolute;
+                                                  width: 270px;
+                                                  height: 16px;
+                                                  left: 1116px;
+                                                  top: 774px;
+                                                  
+                                                  font-family: 'Roboto';
+                                                  font-style: normal;
+                                                  font-weight: 700;
+                                                  font-size: 14px;
+                                                  line-height: 16px;
+                                                  letter-spacing: 0.03em;
+                                                  text-transform: uppercase;
+                                                  
+                                                  color: #212121;}
+                                                  .p4{/* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem veritatis exercitationem velit magnam iure. */
+
+
+                                                    position: absolute;
+                                                    width: 270px;
+                                                    height: 75px;
+                                                    left: 1115px;
+                                                    top: 800px;
+                                                    
+                                                    font-family: 'Roboto';
+                                                    font-style: normal;
+                                                    font-weight: 400;
+                                                    font-size: 14px;
+                                                    line-height: 24px;
+                                                    /* or 171% */
+                                                    
+                                                    letter-spacing: 0.03em;
+                                                    
+                                                    color: #757575;
+                                                    }
